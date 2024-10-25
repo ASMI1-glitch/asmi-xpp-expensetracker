@@ -1,3 +1,47 @@
+Expense Tracker ASMI
+Overview
+Expense Tracker is a web application built with React.js for tracking personal expenses. It allows users to add, edit, delete expenses, and manage their wallet balance. Users can view summaries of their expenses through various charts and keep track of spending trends.
+
+Features
+Wallet Balance Management: Start with a default balance of ₹5000. Users can add funds to their wallet.
+Expense Management: Add new expenses with details like title, amount, category, and date. Edit or delete existing expenses.
+Expense Summary: View a summary of expenses categorized by type using pie charts.
+Expense Trends: Analyze spending trends based on categories using bar charts.
+Responsive Design: The application is designed to be usable on various devices.
+Technologies Used
+Frontend: React.js, HTML, CSS, JavaScript
+Libraries:
+Recharts for charts
+React-Modal for modals
+Notistack for notifications
+React Icons for icons
+Installation
+Clone the Repository:
+
+Install Dependencies:
+
+npm install
+Run the Application:
+
+npm start
+This will start the development server, and you can view the application in your browser at http://localhost:3000.
+
+Usage
+Add Balance: Click on the "Add Balance" button to increase your wallet balance.
+Add Expense: Use the "Add Expense" form to add new expenses. You can categorize your expenses and select the date.
+Edit Expense: Click the "Edit" button on an expense to modify its details.
+Delete Expense: Click the "Delete" button to remove an expense.
+View Summary: Check out the pie chart to see your total expenses categorized by type.
+View Trends: Use the bar chart to analyze spending trends based on categories.
+Local Storage
+Wallet Balance: The wallet balance and list of expenses are stored in localStorage to persist data across page refreshes.
+Contributing
+If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
+
+Contact
+For any questions or suggestions, please contact Asmi.
+
+
 # Getting Started with Create React App
 Before starting this project have the basic idea realted to react and its file structure control flow as u may encounter few error due to various factors like caching ,filenaming structure which was not related to the code
 
