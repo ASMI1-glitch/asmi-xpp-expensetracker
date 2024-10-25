@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+Before starting this project have the basic idea realted to react and its file structure control flow as u may encounter few error due to various factors like caching ,filenaming structure which was not related to the code
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
